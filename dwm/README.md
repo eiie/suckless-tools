@@ -29,3 +29,10 @@ Icon=dwm
 Type=XSession
 EOF'
 ```
+
+## Key bindings ##
+
+- Mod : Super
+- Mod + w : open firefox
+- Mod + s : open passmenu
+- Mod + Shift + L : lock with dm-tool
