@@ -15,3 +15,9 @@
 cd sucklesss-tools/st
 make && sudo make install
 ```
+
+## Dependencies ##
+
+- xdotool
+- xclip
+
