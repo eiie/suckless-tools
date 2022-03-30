@@ -6,6 +6,7 @@
 - noborder
 - status-cmd-nosignal
 - autostart
+- holdbar
 
 ## Installation ##
 
