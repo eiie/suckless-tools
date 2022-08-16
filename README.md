@@ -6,4 +6,3 @@ This configuration uses :
 - lightdm
 - awesome font 
 - consolas font
-

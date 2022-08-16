@@ -63,7 +63,8 @@ static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont,
 static const char *termcmd[]  = { "st", NULL };
 static const char *firefoxcmd[]  = { "firefox", NULL };
 static const char *passmenucmd[]  = { "passmenu", NULL };
-static const char *lockcmd[]  = { "dm-tool", "lock", NULL };
+/* static const char *lockcmd[]  = { "dm-tool", "lock", NULL }; */
+static const char *lockcmd[]  = { "slock", NULL };
 static const char *screenshotcmd[]  = { "flameshot", "gui", NULL };
 
 static Key keys[] = {
