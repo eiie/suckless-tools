@@ -36,4 +36,5 @@ EOF'
 - Mod : Super
 - Mod + w : open firefox
 - Mod + s : open passmenu
-- Mod + Shift + L : lock with dm-tool
+- Mod + Shift + L : lock with slock
+- Mod + Shift + S : start capture with flameshot

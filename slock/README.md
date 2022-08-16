@@ -2,7 +2,7 @@
 
 ## Patches ##
 
-- dwm logo 
+- dwm-logo 
 
 ## Installation ##
 
