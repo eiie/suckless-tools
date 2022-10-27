@@ -7,6 +7,7 @@
 - status-cmd-nosignal
 - autostart
 - holdbar
+- pertag
 
 ## Installation ##
 
